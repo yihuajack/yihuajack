@@ -1,8 +1,8 @@
-## About Me [![](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)]()
+## About Me [![](https://visitor-badge.glitch.me/badge?page_id=yihuajack.visitor-badge)]()
 
 Hi, I'm a Junior Electrical and Computer Engineering student from University of Michigan - Shanghai Jiao Tong University Joint Institute. I was born in Taiyuan, Shanxi, China and now live in Shanghai, China.
 
-- :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [opensource contributions](https://yihuajack.github.io/opensource-contributions) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
+- :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [opensource contributions](https://yihuajack.github.io/opensource-contributions) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
 
 - :hammer_and_wrench: I'm familiar with SuperUser problems and currently mainly work with C/C++.
 

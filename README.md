@@ -2,13 +2,13 @@
 
 Hi, I'm a Junior Electrical and Computer Engineering student from University of Michigan - Shanghai Jiao Tong University Joint Institute. I was born in Taiyuan, Shanxi, China and now live in Shanghai, China.
 
-- :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [opensource contributions](https://yihuajack.github.io/opensource-contributions) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
+- :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [opensource contributions](https://yihuajack.github.io/PRs) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
 
-- :hammer_and_wrench: I'm familiar with SuperUser problems and currently mainly work with C/C++.
+- :hammer_and_wrench: Learning a lot of things...
 
 - :speech_balloon: Reach me at <yihuajack@live.cn> or [![](https://img.shields.io/badge/Twitter-follow-1DA1F2.svg?logo=Twitter)](https://twitter.com/yihuajack)
 
-### Platform & Tools
+### Platforms / Environments / Languages
 
 [![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows/)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
@@ -24,4 +24,7 @@ Hi, I'm a Junior Electrical and Computer Engineering student from University of 
 [![](https://img.shields.io/badge/Wolfram%20Mathematica-12-DD1100?style=flat-square&logo=Wolfram-Mathematica)](https://www.wolfram.com/mathematica/)
 [![](https://img.shields.io/badge/LaTeX-2e-008080?style=flat-square&logo=LaTeX)](https://www.latex-project.org/)
 
-![Liu Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)
+![Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)
+<div style='display: none'>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yihuajack&layout=compact&hide=html,mathematica&langs_count=9&theme=onedark)
+</div>

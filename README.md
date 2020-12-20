@@ -25,6 +25,3 @@ Hi, I'm a Junior Electrical and Computer Engineering student from University of 
 [![](https://img.shields.io/badge/LaTeX-2e-008080?style=flat-square&logo=LaTeX)](https://www.latex-project.org/)
 
 ![Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)
-<div style='display: none'>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yihuajack&layout=compact&hide=html,mathematica&langs_count=9&theme=onedark)
-</div>

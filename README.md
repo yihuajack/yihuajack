@@ -9,9 +9,9 @@ Hi, I'm a senior student major in Electrical and Computer Engineering from Unive
 - :speech_balloon: Reach me at <yihuajack@live.cn> or [![](https://img.shields.io/badge/Twitter-follow-1DA1F2.svg?logo=Twitter)](https://twitter.com/yihuajack)
 
 [![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows/)
-[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Visual%20Studio-2019-5C2D91?style=flat-square&logo=Visual-Studio)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=flat-square&logo=Visual-Studio)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/JetBrains%20Toolbox-000000?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim)](https://www.vim.org/)
 
@@ -23,11 +23,5 @@ Hi, I'm a senior student major in Electrical and Computer Engineering from Unive
 [![](https://img.shields.io/badge/LaTeX-2e-008080?style=flat-square&logo=LaTeX)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/Racket-9F1D20?style=flat-square&logo=Racket)](https://racket-lang.org/)
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
-
-[![](https://img.shields.io/badge/QEMU-6-FF6600?style=flat-square&logo=QEMU)](https://www.qemu.org/)
-[![](https://img.shields.io/badge/VMware%20Workstation-15-607078?style=flat-square&logo=VMware)](https://www.vmware.com/products/workstation-pro.html)
-[![](https://img.shields.io/badge/Altium%20Designer-21-A5915F?style=flat-square&logo=Altium-Designer)](https://www.altium.com/altium-designer/)
-[![](https://img.shields.io/badge/Xilinx%20Vivado-2021-E01F27?style=flat-square&logo=Xilinx)](https://www.xilinx.com/products/design-tools/vivado.html)
-[![](https://img.shields.io/badge/Arduino-UNO-00979D?style=flat-square&logo=Arduino)](https://www.arduino.cc/)
 
 ![Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)

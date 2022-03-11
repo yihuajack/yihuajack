@@ -4,7 +4,7 @@ Hi, I'm a senior student major in Electrical and Computer Engineering from Unive
 
 - :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [opensource contributions](https://yihuajack.github.io/PRs) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
 
-- :hammer_and_wrench: Learning a lot of things...
+- :hammer_and_wrench: Interest: software development; research area: electronic science and technology
 
 - :speech_balloon: Reach me at <yihuajack@live.cn> or [![](https://img.shields.io/badge/Twitter-follow-1DA1F2.svg?logo=Twitter)](https://twitter.com/yihuajack)
 

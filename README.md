@@ -25,8 +25,3 @@ Hi, I'm a senior student major in Electrical and Computer Engineering from Unive
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
 
 ![Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)
-
-```yaml
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-```

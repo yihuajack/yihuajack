@@ -2,7 +2,7 @@
 
 Hi, I'm a senior student major in Electrical and Computer Engineering from University of Michigan - Shanghai Jiao Tong University Joint Institute. I was born in Taiyuan, Shanxi, China and now live in Shanghai, China.
 
-- :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [opensource contributions](https://yihuajack.github.io/PRs) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
+- :sparkler: I have a [website](https://yihuajack.github.io), a [CSDN blog](https://blog.csdn.net/yihuajack) and [open-source contributions](https://yihuajack.github.io/portfolio) ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
 
 - :hammer_and_wrench: Interest: software development; research area: electronic science and technology
 

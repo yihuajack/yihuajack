@@ -22,7 +22,7 @@ You can...
 [![](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion)](https://www.jetbrains.com/zh-cn/clion/)
 [![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm)](https://www.jetbrains.com/zh-cn/pycharm/)
 [![](https://img.shields.io/badge/NeoVim-000000?style=flat-square&logo=NeoVim)](https://www.vim.org/)
-[![](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=WindowsTerminal)]([microsoft/terminal: The new Windows Terminal and the original Windows console host, all in the same place! (github.com)](https://github.com/microsoft/terminal))
+[![](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=WindowsTerminal)](https://github.com/microsoft/terminal)
 
 [![](https://img.shields.io/badge/PowerShell-7-5391FE?style=flat-square&logo=PowerShell)](https://github.com/PowerShell/PowerShell/)
 [![](https://img.shields.io/badge/C-000000?style=flat-square&logo=C)]()
@@ -33,5 +33,13 @@ You can...
 [![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/SystemVerilog-000000?style=flat-square)](https://ieeexplore.ieee.org/document/8299595)
 [![](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
+
+[![](https://img.shields.io/badge/GTK-4-7FE719?style=flat-square&logo=GTK)](https://www.gtk.org/)
+[![](https://img.shields.io/badge/Visio-3955A3?style=flat-square&logo=MicrosoftVisio)](https://www.microsoft.com/visio)
+[![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=Jupyter)](https://jupyter.org)
+[![](https://img.shields.io/badge/SQL%20Server-2019-CC2927?style=flat-square&logo=MicrosoftSQLServer)](https://www.microsoft.com/en-us/sql-server)
+[![](https://img.shields.io/badge/Overleaf-000000?style=flat-square&logo=Overleaf)](https://www.overeleaf.com)
+[![](https://img.shields.io/badge/Hexo-000000?style=flat-square&logo=Hexo)](https://hexo.io)
+[![](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby)](https://www.gatsbyjs.com)
 
 ![Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)

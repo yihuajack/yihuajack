@@ -1,4 +1,4 @@
-## About Me [![](https://visitor-badge.glitch.me/badge?page_id=yihuajack.visitor-badge)]()
+## About Me
 
 Hi, I am...
 

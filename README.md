@@ -2,7 +2,7 @@
 
 Hi, I am...
 
-- :school: 1st-year master student major in Electronic Science and Technology from University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI) and was major in Electrical and Computer Engineering as undergraduate from UM-SJTU JI
+- :school: 2nd-year master student major in Electronic Science and Technology from University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI) and was major in Electrical and Computer Engineering as undergraduate from UM-SJTU JI
 - :city_sunrise: Born in Taiyuan, Shanxi, China, now living in Shanghai, China
 
 - :hammer_and_wrench: Interested in: computer engineering and software development

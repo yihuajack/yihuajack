@@ -1,4 +1,4 @@
-## About Me
+## About Me[![wakatime](https://wakatime.com/badge/user/f63671bd-61fd-45c2-ada6-e7e1216aedb3.svg)](https://wakatime.com/@f63671bd-61fd-45c2-ada6-e7e1216aedb3)
 
 Hi, I am...
 

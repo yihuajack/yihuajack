@@ -33,8 +33,8 @@ You can...
 [![](https://img.shields.io/badge/SystemVerilog-000000?style=flat-square)](https://ieeexplore.ieee.org/document/8299595)
 [![](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Qt-6-41CD52?style=flat-square&logo=Qt)](https://www.qt.io/)
-[![](https://img.shields.io/badge/GTK-4-7FE719?style=flat-square&logo=GTK)](https://www.gtk.org/)
 
+[![](https://img.shields.io/badge/GTK-4-7FE719?style=flat-square&logo=GTK)](https://www.gtk.org/)
 [![](https://img.shields.io/badge/Visio-3955A3?style=flat-square&logo=MicrosoftVisio)](https://www.microsoft.com/visio)
 [![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=Jupyter)](https://jupyter.org)
 [![](https://img.shields.io/badge/SQL%20Server-2022-CC2927?style=flat-square&logo=MicrosoftSQLServer)](https://www.microsoft.com/en-us/sql-server)

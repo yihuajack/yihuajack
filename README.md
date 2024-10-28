@@ -2,10 +2,10 @@
 
 Hi, I am...
 
-- :school: 2nd-year master student major in Electronic Science and Technology from University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI) and was major in Electrical and Computer Engineering as undergraduate from UM-SJTU JI
+- :school: 3rd-year master's student majoring in Electronic Science and Technology from the University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI) and was majoring in Electrical and Computer Engineering as an undergraduate from UM-SJTU JI
 - :city_sunrise: Born in Taiyuan, Shanxi, China, now living in Shanghai, China
 
-- :hammer_and_wrench: Interested in: computer engineering and software development
+- :hammer_and_wrench: Interested in computer engineering and software development
 
 - :computer: Active on GitHub ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
 
@@ -35,6 +35,8 @@ You can...
 [![](https://img.shields.io/badge/Qt-6-41CD52?style=flat-square&logo=Qt)](https://www.qt.io/)
 
 [![](https://img.shields.io/badge/GTK-4-7FE719?style=flat-square&logo=GTK)](https://www.gtk.org/)
+[![](https://img.shields.io/badge/Octave-9-0790C0?style=flat-square&logo=Octave)](https://octave.org/)
+[![](https://img.shields.io/badge/Multisim-14-57B685?style=flat-square&logo=Multisim)](https://www.ni.com/en-us/shop/product/multisim.html)
 [![](https://img.shields.io/badge/Visio-3955A3?style=flat-square&logo=MicrosoftVisio)](https://www.microsoft.com/visio)
 [![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=Jupyter)](https://jupyter.org)
 [![](https://img.shields.io/badge/SQL%20Server-2022-CC2927?style=flat-square&logo=MicrosoftSQLServer)](https://www.microsoft.com/en-us/sql-server)

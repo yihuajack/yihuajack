@@ -11,7 +11,7 @@ Hi, I am...
 
 You can...
 
-- :sparkler: Read more about me at my [website](https://yihuajack.github.io), my [CSDN blog](https://blog.csdn.net/yihuajack), and my [open-source contributions](https://yihuajack.github.io/portfolio) 
+- :sparkler: Read more about me at my [CSDN blog](https://blog.csdn.net/yihuajack) and my [open-source contributions](https://yihuajack.github.io/portfolio) 
 
 - :speech_balloon: Reach me at yihuajack [AT] live [DOT] cn
 

@@ -2,17 +2,15 @@
 
 Hi, I am...
 
-- :school: 3rd-year master's student majoring in Electronic Science and Technology from the University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI) and was majoring in Electrical and Computer Engineering as an undergraduate from UM-SJTU JI
-- :city_sunrise: Born in Taiyuan, Shanxi, China, now living in Shanghai, China
-
+- :man_office_worker: Chip engineer at Xiaomi
+- :school: MS in Electronic Science and Technology from the University of Michigan - Shanghai Jiao Tong University Joint Institute (UM-SJTU JI) and BSE in Electrical and Computer Engineering from the UM-SJTU JI
+- :city_sunrise: Grow up in Taiyuan, Shanxi, China, now living in Shanghai, China
 - :hammer_and_wrench: Interested in computer engineering and software development
-
-- :computer: Active on GitHub ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
+- :computer: (May no longer be quite) active on GitHub ([GitHub profile summary](https://profile-summary-for-github.com/user/yihuajack)) [![Github Gists](https://img.shields.io/github/followers/yihuajack?color=0088ff&logoColor=blue&style=social)](https://gist.github.com/yihuajack)
 
 You can...
 
 - :sparkler: Read more about me at my [website](https://yihuajack.github.io), my [CSDN blog](https://blog.csdn.net/yihuajack), and my [open-source contributions](https://yihuajack.github.io/portfolio) 
-
 - :speech_balloon: Reach me at yihuajack [AT] live [DOT] cn
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-us/windows/)
@@ -37,11 +35,12 @@ You can...
 [![](https://img.shields.io/badge/GTK-4-7FE719?style=flat-square&logo=GTK)](https://www.gtk.org/)
 [![](https://img.shields.io/badge/Octave-9-0790C0?style=flat-square&logo=Octave)](https://octave.org/)
 [![](https://img.shields.io/badge/Multisim-14-57B685?style=flat-square&logo=Multisim)](https://www.ni.com/en-us/shop/product/multisim.html)
-[![](https://img.shields.io/badge/Visio-3955A3?style=flat-square&logo=MicrosoftVisio)](https://www.microsoft.com/visio)
 [![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=Jupyter)](https://jupyter.org)
 [![](https://img.shields.io/badge/SQL%20Server-2022-CC2927?style=flat-square&logo=MicrosoftSQLServer)](https://www.microsoft.com/en-us/sql-server)
 [![](https://img.shields.io/badge/Overleaf-000000?style=flat-square&logo=Overleaf)](https://www.overeleaf.com)
 [![](https://img.shields.io/badge/Hexo-000000?style=flat-square&logo=Hexo)](https://hexo.io)
 [![](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby)](https://www.gatsbyjs.com)
+[![](https://img.shields.io/badge/Cadence-000000?style=flat-square)](https://www.cadence.com/en_US/home.html)
+[![](https://img.shields.io/badge/Synopsys-000000?style=flat-square)](https://www.synopsys.com)
 
 ![Yihua's github stats](https://github-readme-stats.vercel.app/api?username=yihuajack&count_private=true&show_icons=true&theme=tokyonight)
